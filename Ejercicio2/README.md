@@ -1,4 +1,4 @@
-# Mi Aplicación de Administración de Celulares Prepago
+# Aplicación de Celular Prepago
 
 ## Dificultad: Principiante
 
