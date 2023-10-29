@@ -2,20 +2,69 @@
 
 Este repositorio contiene una aplicación desarrollada en Java que permite a un mini zoológico de la ciudad registrar las ventas diarias de boletos y obtener información estadística sobre los asistentes, así como las ventas totales de boletos. La aplicación utiliza ventanas gráficas JOptionPane y se basa en programación orientada a objetos.
 
+**Dificultad**: Intermedia 
+- Programación Orientada a Objetos (POO)
+- Interfaz Gráfica de Usuario (GUI)
+- Estructuras de Control
+- Manejo de Excepciones
+
+**Contenido de Java**:
+- Clases y Objetos
+- Herencia
+- Encapsulación
+- Interfaz Gráfica de Usuario (GUI)
+- Entrada/Salida
+- Estructuras de Control
+- Manejo de Excepciones
+- Métodos y Funciones
+
+
 ## Requerimientos
 
-### Clases
+**Clase `VentaEntradas`**:
+- Métodos:
+    - `main()`: La aplicación principal que muestra un menú de opciones para la gestión de ventas de boletos.
+    - `darVuelto()`: metodo para dar vuelto.
 
-- `VentaEntradas`
-- `Zoologico`
-- `Caja`
-- `Banco`
+**Clase `Zoologico`**:
+- Atributos:
+  - `cant_asist_niños`
+  - `cant_asist_adultos`
+  - `cant_asist_amayor`
+  - `valor_entrada_niños`
+  - `valor_entrada_adultos`
+  - `valor_entrada_amayor`
 
-### Atributos y Métodos de las Clases
+- Métodos:
+  - `act_cant_asist_niños()`
+  - `act_cant_asist_adultos()`
+  - `act_cant_asist_amayor()`
+  - `mostar_estadistica_asistencia()`
 
-- En la clase `VentaEntradas`, se encuentran los métodos para registrar las ventas y mostrar estadísticas.
-- La clase `Caja` se utiliza para realizar cálculos relacionados con las ventas.
-- La clase `Banco` se encarga de validar tarjetas de crédito.
+**Clase `Banco`**:
+- Atributos:
+  - `num_tarjeta1`
+  - `num_tarjeta2`
+
+- Métodos:
+  - `validarNumTarjeta()`
+
+**Clase `Caja`**:
+- Atributos:
+  - `vta_Acum_niños`
+  - `vta_Acum_adultos`
+  - `vta_Acum_amayor`
+
+- Métodos:
+  - `act_vtas_acum_niños()`
+  - `act_vtas_acum_adultos()`
+  - `act_vtas_acum_amayor()`
+  - `obtener_valor_entrada_niños()`
+  - `obtener_valor_entrada_adultos()`
+  - `obtener_valor_entrada_amayor()`
+  - `mostrar_estadistica_ventas()`
+
+
 
 ## Menú de Opciones
 
