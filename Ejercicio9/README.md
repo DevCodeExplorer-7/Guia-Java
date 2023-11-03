@@ -10,6 +10,8 @@
 - Ordenamiento: Clasificar datos en un cierto orden.
 - Validación: Comprobar que los datos ingresados sean válidos.
 
+## Introducción 
+
 La Subsecretaría de Prevención del Delito requiere que desarrolles una aplicación principal que permita registrar los permisos temporales durante la cuarentena en Santiago. Para cumplir con este objetivo, han proporcionado un conjunto de requerimientos que debes implementar en la aplicación. A continuación, detallo los requisitos:
 
 ## Requerimientos
