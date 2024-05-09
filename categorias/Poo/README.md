@@ -4,12 +4,24 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 
 ## Ejercicios Disponibles
 
-### Ejercicio 1: Mini Market
-
+<details>
+<summary><strong>Ejercicio 1: Mini Market</strong></summary>
+  
 - **Descripción:** Implementación de un sistema de gestión de un mini mercado.
-- **Archivo:** `miniMarket/archivo.jar`
+- **Instrucciones:** [Requerimiento](Ejercicio1/Mini_Market/README.md)
+</details>
 
-### Ejercicio 2: Próximamente 
+<details>
+<summary><strong>Ejercicio 2: Celular Prepago</strong></summary>
 
-- **Descripción:** [Breve descripción del ejercicio 2]
-- **Archivo:** [Nombre del archivo]
+- **Descripción:** .
+- **Archivo:** 
+</details>
+
+<details>
+<summary><strong>Ejercicio 3: Mini Zoologico</strong></summary>
+  
+- **Descripción:** 
+- **Archivo:** 
+</details>
+
