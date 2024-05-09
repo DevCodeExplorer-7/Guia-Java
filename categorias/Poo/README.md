@@ -8,20 +8,20 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 <summary><strong>Ejercicio 1: Mini Market</strong></summary>
   
 - **Descripción:** Implementación de un sistema de gestión de un mini mercado.
-- **Instrucciones:** [Requerimiento](Ejercicio1/Mini_Market/README.md)
+- **Instrucciones:** [Requerimiento del ejercicio](Ejercicio1/Mini_Market/README.md)
 </details>
 
 <details>
 <summary><strong>Ejercicio 2: Celular Prepago</strong></summary>
 
-- **Descripción:** .
-- **Archivo:** 
+- **Descripción:**
+- **Archivo:** [Requerimiento del ejercicio](Ejercicio2/Celular_Prepago/README.md)
 </details>
 
 <details>
 <summary><strong>Ejercicio 3: Mini Zoologico</strong></summary>
   
 - **Descripción:** 
-- **Archivo:** 
+- **Archivo:** [Requerimiento del ejercicio](Ejercicio3/Mini_Zoologico/README.md)
 </details>
 
