@@ -12,6 +12,7 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 </details>
 
 <details>
+  
 <summary><strong>Ejercicio 2: Celular Prepago</strong></summary>
 
 - **Descripción:**
@@ -25,3 +26,9 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 - **Archivo:** [Requerimiento del ejercicio](Ejercicio3/Mini_Zoologico/README.md)
 </details>
 
+<details>
+<summary><strong>Ejercicio 4: Notas de Alumnos</strong></summary>
+  
+- **Descripción:** 
+- **Archivo:** [Requerimiento del ejercicio](Ejercicio4/Notas_Alumnos/README.md)
+</details>
