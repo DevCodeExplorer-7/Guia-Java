@@ -32,3 +32,10 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 - **Descripción:** 
 - **Archivo:** [Requerimiento del ejercicio](Ejercicio4/Notas_Alumnos/README.md)
 </details>
+
+<details>
+<summary><strong>Ejercicio 5: Gestion de Inventario</strong></summary>
+  
+- **Descripción:** 
+- **Archivo:** [Requerimiento del ejercicio](Ejercicio5/Gestion_Inventario/README.md)
+</details>
