@@ -39,3 +39,17 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 - **Descripción:** 
 - **Archivo:** [Requerimiento del ejercicio](Ejercicio5/Gestion_Inventario/README.md)
 </details>
+
+<details>
+<summary><strong>Ejercicio 6: Maquina de Cafe</strong></summary>
+  
+- **Descripción:** 
+- **Archivo:** [Requerimiento del ejercicio]()
+</details>
+
+<details>
+<summary><strong>Ejercicio 7: ?</strong></summary>
+  
+- **Descripción:** 
+- **Archivo:** [Requerimiento del ejercicio]()
+</details>
