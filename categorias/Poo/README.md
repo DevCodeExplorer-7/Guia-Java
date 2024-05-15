@@ -44,7 +44,7 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 <summary><strong>Ejercicio 6: ?</strong></summary>
   
 - **Descripción:** 
-- **Archivo:** [Requerimiento del ejercicio]()
+- **Archivo:** [Requerimiento del ejercicio](Ejercicio6/Maquina_Cafe/README.md)
 </details>
 
 <details>
