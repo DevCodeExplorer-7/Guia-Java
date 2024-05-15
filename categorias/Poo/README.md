@@ -55,10 +55,10 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 </details>
 
 <details>
-<summary><strong>Ejercicio 8: ?</strong></summary>
+<summary><strong>Ejercicio 8: Ventas de Vehículos </strong></summary>
   
 - **Descripción:** 
-- **Archivo:** [Requerimiento del ejercicio]()
+- **Archivo:** [Requerimiento del ejercicio](Ejercicio8/Ventas_Vehiculos/README.md)
 </details>
 
 <details>
