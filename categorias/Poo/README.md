@@ -53,3 +53,24 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 - **Descripción:** 
 - **Archivo:** [Requerimiento del ejercicio]()
 </details>
+
+<details>
+<summary><strong>Ejercicio 8: ?</strong></summary>
+  
+- **Descripción:** 
+- **Archivo:** [Requerimiento del ejercicio]()
+</details>
+
+<details>
+<summary><strong>Ejercicio 9: ?</strong></summary>
+  
+- **Descripción:** 
+- **Archivo:** [Requerimiento del ejercicio]()
+</details>
+
+<details>
+<summary><strong>Ejercicio 10: ?</strong></summary>
+  
+- **Descripción:** 
+- **Archivo:** [Requerimiento del ejercicio]()
+</details>
