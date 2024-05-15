@@ -41,7 +41,7 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 </details>
 
 <details>
-<summary><strong>Ejercicio 6: ?</strong></summary>
+<summary><strong>Ejercicio 6: Maquina de Cafe</strong></summary>
   
 - **Descripción:** 
 - **Archivo:** [Requerimiento del ejercicio](Ejercicio6/Maquina_Cafe/README.md)
