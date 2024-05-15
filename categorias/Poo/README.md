@@ -48,10 +48,10 @@ En este directorio encontrarás una serie de ejercicios relacionados con el conc
 </details>
 
 <details>
-<summary><strong>Ejercicio 7: ?</strong></summary>
+<summary><strong>Ejercicio 7: Tarjeta Bip</strong></summary>
   
 - **Descripción:** 
-- **Archivo:** [Requerimiento del ejercicio]()
+- **Archivo:** [Requerimiento del ejercicio](Ejercicio7/Tarjeta_Bip/README.md)
 </details>
 
 <details>
