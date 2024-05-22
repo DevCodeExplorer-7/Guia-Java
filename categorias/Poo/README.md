@@ -1,6 +1,7 @@
 # Ejercicios de Programación Orientada a Objetos (POO)
 
-En este directorio encontrarás una serie de ejercicios relacionados con el concepto de Programación Orientada a Objetos (POO). Cada subdirectorio contiene un ejercicio individual.
+En este directorio encontrarás una serie de ejercicios relacionados con el concepto de Programación Orientada a Objetos (POO) y poquito
+mas de otros conceptos. Cada subdirectorio contiene un ejercicio individual.
 
 ## Ejercicios Disponibles
 
