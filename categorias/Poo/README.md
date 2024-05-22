@@ -57,8 +57,9 @@ mas de otros conceptos. Cada subdirectorio contiene un ejercicio individual.
 </details>
 
 <details>
-<summary><strong>Ejercicio 9: ?</strong></summary>
-  - **Archivo:** [Requerimiento del ejercicio]()
+<summary><strong>Ejercicio 9: Comisaria Virtual</strong></summary>
+  
+  - **Archivo:** [Requerimiento del ejercicio](Ejercicio9/Comisaria_Virtual/README.md)
 </details>
 
 <details>
